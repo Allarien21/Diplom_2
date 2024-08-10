@@ -1,0 +1,6 @@
+MESSAGE_FORBIDDEN = 'User already exists'
+MESSAGE_UNAUTHORIZED = 'email or password are incorrect'
+ERROR_EMPTY_FIELD = 'Email, password and name are required fields'
+ERROR_UNAUTHORIZED = 'You should be authorised'
+ERROR_INGREDIENT = 'Ingredient ids must be provided'
+ERROR_WRONG_INGREDIENT = 'One or more ids provided are incorrect'
