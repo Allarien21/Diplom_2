@@ -1,0 +1,7 @@
+API_HOST = 'https://stellarburgers.nomoreparties.site'
+CREATE_USER = API_HOST + '/api/auth/register'
+SETTINGS_USER = API_HOST + '/api/auth/user'
+LOGIN_USER = API_HOST + '/api/auth/login'
+LOGOUT_USER = API_HOST + '/api/auth/logout'
+GET_ORDERS_ALL = API_HOST + '/api/orders/all'
+SETTINGS_ORDERS = API_HOST + '/api/orders'
